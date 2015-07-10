@@ -70,6 +70,8 @@
   THFloatTensor_set1d(&classify, 0, obj.x);
   THFloatTensor_set1d(&classify, 1, obj.y);
   luaT_pushudata(L, &classify, "torch.FloatTensor");
+    
+
   
   //p_call -- args, results
   int res = lua_pcall(L, 1, 1, 0);

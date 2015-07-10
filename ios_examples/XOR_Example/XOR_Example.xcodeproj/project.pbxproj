@@ -379,6 +379,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/XOR_Example",
 					"/Users/woffle/Development/torch-woffle-ios",
+					"/Users/salsicha/Desktop/torch-ios/",
 				);
 				INFOPLIST_FILE = XOR_Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -394,6 +395,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/XOR_Example",
 					"/Users/woffle/Development/torch-woffle-ios",
+					"/Users/salsicha/Desktop/torch-ios/",
 				);
 				INFOPLIST_FILE = XOR_Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
